@@ -7,31 +7,37 @@ collection: pages_2019
 
 ## Overview
 
-<!-- There has been growing interest in extracting, representing, and applying knowledge. In NLP literatures, both structured (e.g. Freebase, Wikidata) and unstructured (plain text) text have been used as knowledge sources. Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, generation and fact verification.
-
-The objective of this workshop is to bring together researchers interested in effectively extracting, representing, and applying knowledge in various different ways. We promote discussions in related topics including but not limited to:
-
-- The role of explicit structure in representing knowledge in the future
-- Can language models be knowledge bases?
-- How to effectively combine structured and unstructured knowledge?
-- How to effectively combine external (explicit) and parameterized (implicit) knowledge?
-- How to interpret knowledge that the models potentially have?
-- Applications that make use of structured or unstructured knowledge
-- Transfer learning for diverse knowledge sources -->
+Recently, there's been a growing interest in ......
 
 The goal of this workshop is to shed light and encourage interdisciplinary research on some of the open problems situated on the interface of dialog systems and structured knowledge (e.g., knowledge bases, tables etc.), which is important for building digital assistants like Google Home, Alexa and Siri. Our hope is to help bridge the gap between academic and industry research in this area. Open questions include, but are not limited to: 
-- How to enable more natural conversations about structured objects and their properties? - How to model the structured context of a conversation? 
+- How to enable more natural conversations about structured objects and their properties? 
+- How to model the structured context of a conversation? 
 - Can we develop dialog systems that can inter-operate across arbitrary knowledge base schemas? 
 - How to reason about, model, and make updates to an evolving world / knowledge base in a conversational setting? 
-- How to characterize and respond to ambiguous references to entities? - How to address acoustic ambiguity in references to KB items in spoken queries? - How to segment user speech into meaningful utterances? 
-- How do Conversational Agents interact with a Situated KB (e.g., user devices)? - How to use knowledge encoded in Pre-trained LMs in Conversational Agents? 
+- How to characterize and respond to ambiguous references to entities? 
+- How to address acoustic ambiguity in references to KB items in spoken queries? 
+- How to segment user speech into meaningful utterances? 
+- How do Conversational Agents interact with a Situated KB (e.g., user devices)? 
+- How to use knowledge encoded in Pre-trained LMs in Conversational Agents? 
 
 
-**Due to concerns about COVID-19, Workshop on Conversational Agents and Structured Knowledge will be fully virtual.**
+<!-- **Due to concerns about COVID-19, Workshop on Conversational Agents and Structured Knowledge will be fully virtual.** -->
 
 ## Registration
 
 Workshop registration is included in [AKBC 2021 registration](TODO), along with access to the main conference (TODO).
+
+## Call for Papers
+
+<h2>Call for Abstracts</h2>
+
+<h2>Submission Instructions</h2>
+
+<h2>Reviewing Policy</h2>
+Submissions shall be refereed on the basis of technical quality, potential impact, and clarity. Atleast one of the authors of each accepted submission will be required to present the work virtually.
+
+<h2>Important Dates</h2>
+
 
 ## Invited Speakers
 
