@@ -29,14 +29,13 @@ Workshop registration is included in [AKBC 2021 registration](TODO), along with 
 
 ## Call for Papers
 
-<h2>Call for Abstracts</h2>
+<h3>Call for Abstracts</h3>
 
-<h2>Submission Instructions</h2>
+<h3>Submission Instructions</h3>
 
-<h2>Reviewing Policy</h2>
-Submissions shall be refereed on the basis of technical quality, potential impact, and clarity. Atleast one of the authors of each accepted submission will be required to present the work virtually.
+<h3>Reviewing Policy</h3>
 
-<h2>Important Dates</h2>
+<h3>Important Dates</h3>
 
 
 ## Invited Speakers
