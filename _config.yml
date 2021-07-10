@@ -1,0 +1,13 @@
+---
+url: cask-workshop.github.io
+exclude: [README.md, .gitignore]
+timezone: null
+lsi: false
+markdown: kramdown
+
+### content configuration ###
+title:       "Conversational Agents with Structured Knowledge @ AKBC 2021"
+keywords:    "workshop, knowledge"
+description: "The official website for the Workshop on Conversational Agents with Structured Knowledge @ AKBC 2021"
+favicon:     #put a path like: "img/favicon.ico"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
