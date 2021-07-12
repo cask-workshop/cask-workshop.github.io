@@ -1,11 +1,11 @@
-
-<!-- Credit: This repository is a fork of https://github.com/uskb-workshop/uskb-workshop.github.io (the git history of the fork was mistakenly overwritten). -->
 ---
 layout: main
 title: Home
 order: 1
 collection: pages_2019
 ---
+
+<!-- Credit: This repository is a fork of https://github.com/uskb-workshop/uskb-workshop.github.io (the git history of the fork was mistakenly overwritten). -->
 
 ## Overview
 
