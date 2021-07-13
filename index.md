@@ -97,10 +97,10 @@ CASK workshop will be held virtually on October 7th from TODO in Pacific Time (U
 
 
 ## Organizing Committee
-- [Aditya Gupta](TODO), Google
-- [Emily Pitler](TODO), Google
-- [Mihir Kale](TODO), Google
-- [Rahul Goel](TODO), Google
-- [Shachi Paul](TODO), Google
-- [Shyam Upadhyay](TODO), Google
-- [Waleed Ammar](TODO), Google
+- [Aditya Gupta](https://scholar.google.com/citations?hl=en&user=HW7IZ6sAAAAJ&view_op=list_works&sortby=pubdate), Google
+- [Emily Pitler](https://research.google/people/EmilyPitler/), Google
+- [Mihir Kale](https://www.linkedin.com/in/mkale/), Google
+- [Rahul Goel](https://www.linkedin.com/in/rgoel39/), Google
+- [Shachi Paul](https://www.linkedin.com/in/shachipaul/), Google
+- [Shyam Upadhyay](http://shyamupa.com/), Google
+- [Waleed Ammar](https://wammar.github.io/), Google
