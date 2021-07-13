@@ -9,9 +9,7 @@ collection: pages_2019
 
 ## Overview
 
-Recently, there's been a growing interest in ......
-
-The goal of this workshop is to shed light and encourage interdisciplinary research on some of the open problems situated on the interface of dialog systems and structured knowledge (e.g., knowledge bases, tables etc.), which is important for building digital assistants like Google Home, Alexa and Siri. Our hope is to help bridge the gap between academic and industry research in this area. Open questions include, but are not limited to: 
+Conversational agents are increasingly becoming part of our day-to-day life on the phone, in the car and in the living room, performing tasks on our behalf which often require interfacing with various forms of structured knowledge. The goal of this workshop is to shed light and encourage interdisciplinary research on some of the open problems situated on the interface of dialog systems and structured knowledge (e.g., knowledge bases, tables etc.), which is critical to the development of digital assistants like Google Home, Alexa and Siri. Our hope is to help bridge the gap between academic and industry research in this area. Open questions include, but are not limited to: 
 - How to enable more natural conversations about structured objects and their properties? 
 - How to model the structured context of a conversation? 
 - Can we develop dialog systems that can inter-operate across arbitrary knowledge base schemas? 
@@ -27,7 +25,7 @@ The goal of this workshop is to shed light and encourage interdisciplinary resea
 
 ## Registration
 
-Workshop registration is included in [AKBC 2021 registration](TODO), along with access to the main conference (TODO).
+Workshop registration is included in [AKBC 2021 registration](https://www.akbc.ws/2021/), along with access to the main conference.
 
 ## Call for Papers
 
@@ -42,11 +40,10 @@ Workshop registration is included in [AKBC 2021 registration](TODO), along with 
 
 ## Invited Speakers
 
-- [TODO](TODO), TODO
 
 ## Tentative Schedule
 
-CASK workshop will be held virtually on October 7th from TODO in Pacific Time (UTC-7).
+CASK workshop will be held virtually on October 7th from 8am in Pacific Time (UTC-7).
 
 <div id="schedule">
     <ul>
