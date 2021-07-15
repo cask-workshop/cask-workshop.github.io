@@ -37,6 +37,11 @@ Workshop registration is included in [AKBC 2021 registration](https://www.akbc.w
 
 <h3>Important Dates</h3>
 
+<b>Abstract submission deadline: Sep 10</b> <br />
+Notification of acceptance: Sep 17 <br />
+Date of workshop: Oct 7 <br />
+<br />
+All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 ## Invited Speakers
 
