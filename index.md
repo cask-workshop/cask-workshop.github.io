@@ -27,13 +27,7 @@ Conversational agents are increasingly becoming part of our day-to-day life on t
 
 Workshop registration is included in [AKBC 2021 registration](https://www.akbc.ws/2021/), along with access to the main conference.
 
-## Call for Papers
-
 <h3>Call for Abstracts</h3>
-
-<h3>Submission Instructions</h3>
-
-<h3>Reviewing Policy</h3>
 
 <h3>Important Dates</h3>
 
@@ -52,9 +46,15 @@ CASK workshop will be held virtually on October 7th from 8am in Pacific Time (UT
 
 <div id="schedule">
     <ul>
-        <li>
-            8:25-8:30 - Opening remarks
-        </li>
+        <li>8:00-8:15 - Opening remarks</li>
+	<li>8:15-8:30 - Lightning talks (session 1)</li>
+	<li>8:30-9:30 - Invited talks</li>
+	<li>9:30-10:00 - Lightning talks (session 2)</li>
+	<li>10:00-10:30 - Break</li>
+	<li>10:30-11:30 - Invited talks</li>
+	<li>11:30-12:00 - Lightning talks (session 3)</li>
+	<li>12:00-1:00 - Panel discussion</li>
+	
         <!-- <li>
             8:30-9:00 - Invited talk: <a href="https://users.cs.northwestern.edu/~forbus/">Kenneth Forbus</a> -- <b>Analogy and the Construction of more Human-like Knowledge Bases</b> <button class="btn btn-outline-info btn-xs" type="button" data-toggle="collapse" data-target="#ken-card" aria-expanded="false" aria-controls="ken-card">Abstract</button><a href="https://www.youtube.com/watch?v=V4nbWiPdnTE" class="btn btn-outline-info btn-xs">Video</a>
             <div class="collapse" id="ken-card"><div class="card card-body">
