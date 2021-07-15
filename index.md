@@ -20,6 +20,7 @@ Conversational agents are increasingly becoming part of our day-to-day life on t
 - How do Conversational Agents interact with a Situated KB (e.g., user devices)? 
 - How to use knowledge encoded in Pre-trained LMs in Conversational Agents? 
 
+Make sure to also check out the closely-related AKBC workshop on personal knowledge graphs <a href="https://pkgs.ws/">here</a>.
 
 <!-- **Due to concerns about COVID-19, Workshop on Conversational Agents and Structured Knowledge will be fully virtual.** -->
 
