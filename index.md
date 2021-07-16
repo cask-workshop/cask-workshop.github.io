@@ -24,11 +24,28 @@ Make sure to also check out the closely-related AKBC workshop on personal knowle
 
 <!-- **Due to concerns about COVID-19, Workshop on Conversational Agents and Structured Knowledge will be fully virtual.** -->
 
-## Registration
-
+<h3>Registration</h3>
 Workshop registration is included in [AKBC 2021 registration](https://www.akbc.ws/2021/), along with access to the main conference.
 
-<h3>Call for Abstracts</h3>
+<h3>Call for Extended Abstracts</h3>
+We invite the submission of extended abstracts to CASK, describing new (unpublished) and relevant recently published research in the field. The workshop will not consist of archival proceedings, and the accepted abstracts will be presented as oral (lightning talks) during the workshop and listed on the website.
+
+To submit an abstract to CASK, please send an email to <strong>cask2021@googlegroups.com</strong> with the subject line “<strong>[CASK ABSTRACT]: here-goes-your-title</strong>”. The email should include the following:
+	
+<ul>
+<li>Extended abstracts in PDF format (2 pages max, not including references), as an attachment. Please make sure to include the complete author list, along with their affiliation(s). </li>
+<ul>
+<li>We encourage the authors to cite all the relevant and related work(s) in the abstract submission. This won&rsquo;t count towards the 2 page limit.</li>
+</ul>
+<li>Name and email of the author who would be presenting the work as a lightning talk. We will reach out with the details of the lightning talk post acceptance.</li>
+<li>(Optional) Full paper, if the authors have a preprint ready.</li>
+</ul>
+
+Submitted abstracts will undergo a lightweight review process to make sure they are relevant to the workshop, but no official reviews will be sent to authors. All accepted abstracts will be made available prior to the workshop. We also would make the lightning talks accessible post workshop proceedings.
+
+If you require further assistance in participating in the workshop, please let us know and we’ll be in touch to discuss how we can best address your needs.
+
+
 
 <h3>Important Dates</h3>
 <ul>
