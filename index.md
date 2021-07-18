@@ -28,7 +28,7 @@ Make sure to also check out the closely-related AKBC workshop on personal knowle
 Workshop registration is included in [AKBC 2021 registration](https://www.akbc.ws/2021/), along with access to the main conference.
 
 <h3>Call for Extended Abstracts</h3>
-We invite the submission of extended abstracts to CASK, describing new (unpublished) and relevant recently published research in the field. The workshop will not consist of archival proceedings, and the accepted abstracts will be presented as oral (lightning talks) during the workshop and listed on the website.
+We invite the submission of extended abstracts to CASK, describing (i) new unpublished or (ii) relevant recently published research in the field. The workshop will not consist of archival proceedings, and the accepted abstracts will be presented as oral (lightning talks) during the workshop and listed on the website.
 
 To submit an abstract to CASK, please send an email to <strong>cask2021@googlegroups.com</strong> with the subject line “<strong>[CASK ABSTRACT]: here-goes-your-title</strong>”. The email should include the following:
 	
