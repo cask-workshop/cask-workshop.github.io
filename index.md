@@ -56,7 +56,7 @@ If you require further assistance in participating in the workshop, please let u
 <p>All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).</p>
 
 ## Invited Speakers
-
+TBD
 
 ## Tentative Schedule
 
