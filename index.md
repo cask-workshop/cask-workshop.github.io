@@ -56,9 +56,12 @@ If you require further assistance in participating in the workshop, please let u
 <p>All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).</p>
 
 ## Invited Speakers
-<ul>[Dilek-hakkani Tur](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), Amazon</ul>
-<ul>[Milica Gasic](https://www.csie.ntu.edu.tw/~yvchen/), Heinrich-Heine-Universität Düsseldorf</ul>
-<ul>[Vivian Violet Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University</ul>
+
+[Dilek-hakkani Tur](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), Amazon
+
+[Milica Gasic](https://www.csie.ntu.edu.tw/~yvchen/), Heinrich-Heine-Universität Düsseldorf
+
+[Vivian Violet Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University
 
 ## Schedule
 
