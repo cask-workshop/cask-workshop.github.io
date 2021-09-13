@@ -25,7 +25,12 @@ Make sure to also check out the closely-related AKBC workshop on personal knowle
 <!-- **Due to concerns about COVID-19, Workshop on Conversational Agents and Structured Knowledge will be fully virtual.** -->
 
 <h3>Registration</h3>
-Workshop registration is included in [AKBC 2021 registration](https://www.akbc.ws/2021/), along with access to the main conference.
+<p>
+	In order to participate in the workshop, we request that you register at the [AKBC 2021 registration page](https://akbc.ws/2021/registration/). There is no separate fee for workshop registration, the conference registration ($50 for non-students, $30 for students) will include all workshops. </p>
+
+<p>
+	<i>Invited speakers:</i> you should receive a free registration code by Sep 14. If you don't, please email the AKBC workshop co-chairs: Eunsol Choi (eunsol@utexas.edu) and Waleed Ammar (wammar@google.com).
+</p>
 
 <h3>Call for Extended Abstracts</h3>
 We invite the submission of extended abstracts to CASK, describing (i) new unpublished or (ii) relevant recently published research in the field. The workshop will not consist of archival proceedings, and the accepted abstracts will be presented as oral (lightning talks) during the workshop and listed on the website.
