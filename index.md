@@ -49,8 +49,8 @@ If you require further assistance in participating in the workshop, please let u
 
 <h3>Important Dates</h3>
 <ul>
-<li style="color:red;">Abstract submission deadline: Sep 10</li>
-<li>Notification of acceptance: Sep 17</li>
+<li style="color:red;">Abstract submission deadline: Sep 17 (extended)</li>
+<li>Notification of acceptance: Sep 18</li>
 <li>Workshop: Oct 7 </li>
 </ul>
 <p>All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).</p>
