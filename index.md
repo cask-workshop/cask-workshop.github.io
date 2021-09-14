@@ -66,7 +66,7 @@ If you require further assistance in participating in the workshop, please let u
 
 [Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic), Heinrich-Heine-Universität Düsseldorf
 
-[Vivian Violet Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University
+[Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University
 
 ## Schedule
 
@@ -79,7 +79,7 @@ CASK workshop will be held virtually on October 7th with the following with the 
 <li>8:45-9:30 - Invited talk: <a href="https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic">Milica Gašić</a>, Heinrich-Heine-Universität Düsseldorf</li>
 <li>9:30-10:00 - Break</li>
 <li>10:00-10:30 - Lightning talks</li>
-<li>10:30-11:15 - Invited talk: <a href="https://www.csie.ntu.edu.tw/~yvchen/">Vivian Violet Chen</a>, National Taiwan University</li>
+<li>10:30-11:15 - Invited talk: <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
 <li>11:15-11:30 - Break</li>
 <li>11:30-12:15 - Invited talk: <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek-hakkani Tur</a>, Amazon</li>
 <li>12:15-1:30 - Panel discussion</li>
