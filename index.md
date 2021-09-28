@@ -68,6 +68,17 @@ If you require further assistance in participating in the workshop, please let u
 
 [Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University
 
+## Lightning Talks
+Get to Know Me: Creating Inclusive and Culturally-Competent Conversational Agents. _Jana Thompson (speaker), Isabella Su, Ali Hosseini_
+
+Neural Path Hunter: Reducing Hallucination in Dialogue Systems via Path Grounding. _Nouha Dziri (speaker), Andrea Madotto, Osmar Zaiane, Avishek Joey Bose_
+
+Retrieval-Free Knowledge-Grounded Dialogue Response Generation with Adapters. _Yan Xu (speaker), Etsuko Ishii, Samuel Cahyawijaya, Zihan Liu, Genta Indra Winata, Andrea Madotto, Dan Su, Pascale Fung_
+
+Evaluating Pretrained Transformer Language Models for Entity Linking in Task-Oriented Dialog. _Sai Muralidhar Jayanthi (speaker), Varsha Embar, Karthik Raghunathan_
+
+Challenges for the Conversational Entity Dialog Model. _Wolfgang Maier (speaker), Stefan Ultes_
+
 ## Schedule
 
 CASK workshop will be held virtually on October 7th with the following with the following schedule (all times in Pacific Time, UTC-7).
