@@ -7,7 +7,7 @@ collection: pages_2019
 
 <!-- Credit: This repository is a fork of https://github.com/uskb-workshop/uskb-workshop.github.io (the git history of the fork was mistakenly overwritten). -->
 
-<iframe src="https://free.timeanddate.com/countdown/i804ousz/n234/cf11/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/iso2021-10-07T08:00:00" allowtransparency="true" frameborder="0" width="290" height="19" align="right"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i804ousz/n234/cf11/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc00f/pcfff/tcfff/fs100/szw320/szh135/iso2021-10-07T08:00:00" allowtransparency="true" frameborder="0" width="290" height="19" align="right"></iframe>
 
 ## Overview
 
@@ -56,9 +56,9 @@ If you require further assistance in participating in the workshop, please let u
 
 <h3>Important Dates</h3>
 <ul>
-<li style="color:red;">Abstract submission deadline: Sep 17 (extended)</li>
+<li>Abstract submission deadline: Sep 17 (extended)</li>
 <li>Notification of acceptance: Sep 18</li>
-<li>Workshop: Oct 7 </li>
+<li style="color:red;">Workshop: Oct 7 </li>
 </ul>
 <p>All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).</p>
 
