@@ -99,6 +99,9 @@ CASK workshop will be held virtually on October 7th with the following with the 
     </ul>
 </div>
 
+## How to attend
+The workshop will be virtually held on Zoom. We will send out an email to the attendees with a Zoom link closer to the workshop date. Please be on the lookout!
+
 
 ## Organizing Committee
 - [Aditya Gupta](https://scholar.google.com/citations?hl=en&user=HW7IZ6sAAAAJ&view_op=list_works&sortby=pubdate), Google
