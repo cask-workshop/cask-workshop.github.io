@@ -7,6 +7,8 @@ collection: pages_2019
 
 <!-- Credit: This repository is a fork of https://github.com/uskb-workshop/uskb-workshop.github.io (the git history of the fork was mistakenly overwritten). -->
 
+<iframe src="https://free.timeanddate.com/countdown/i804ousz/n234/cf11/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20left%20to%20Event%20in/tac000/tptTime%20since%20Event%20started%20in/tpc000/mac000/mpc000/iso2021-10-07T08:00:00" allowtransparency="true" frameborder="0" width="290" height="57"></iframe>
+
 ## Overview
 
 Conversational agents are increasingly becoming part of our day-to-day life on the phone, in the car and in the living room, performing tasks on our behalf which often require interfacing with various forms of structured knowledge. The goal of this workshop is to shed light and encourage interdisciplinary research on some of the open problems situated on the interface of dialog systems and structured knowledge (e.g., knowledge bases, tables etc.), which is critical to the development of digital assistants like Google Home, Alexa and Siri. Our hope is to help bridge the gap between academic and industry research in this area. Open questions include, but are not limited to: 
