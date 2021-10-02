@@ -71,15 +71,26 @@ If you require further assistance in participating in the workshop, please let u
 [Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University
 
 ## Lightning Talks
-Get to Know Me: Creating Inclusive and Culturally-Competent Conversational Agents. _Jana Thompson (speaker), Isabella Su, Ali Hosseini_
 
-Neural Path Hunter: Reducing Hallucination in Dialogue Systems via Path Grounding. _Nouha Dziri (speaker), Andrea Madotto, Osmar Zaiane, Avishek Joey Bose_
+1. Get to Know Me: Creating Inclusive and Culturally-Competent Conversational Agents
 
-Retrieval-Free Knowledge-Grounded Dialogue Response Generation with Adapters. _Yan Xu (speaker), Etsuko Ishii, Samuel Cahyawijaya, Zihan Liu, Genta Indra Winata, Andrea Madotto, Dan Su, Pascale Fung_
+  _Jana Thompson (speaker), Isabella Su, Ali Hosseini_
 
-Evaluating Pretrained Transformer Language Models for Entity Linking in Task-Oriented Dialog. _Sai Muralidhar Jayanthi (speaker), Varsha Embar, Karthik Raghunathan_
+2. Neural Path Hunter: Reducing Hallucination in Dialogue Systems via Path Grounding
 
-Challenges for the Conversational Entity Dialog Model. _Wolfgang Maier (speaker), Stefan Ultes_
+  _Nouha Dziri (speaker), Andrea Madotto, Osmar Zaiane, Avishek Joey Bose_
+
+3. Retrieval-Free Knowledge-Grounded Dialogue Response Generation with Adapters
+
+  _Yan Xu (speaker), Etsuko Ishii, Samuel Cahyawijaya, Zihan Liu, Genta Indra Winata, Andrea Madotto, Dan Su, Pascale Fung_
+
+4. Evaluating Pretrained Transformer Language Models for Entity Linking in Task-Oriented Dialog
+
+  _Sai Muralidhar Jayanthi (speaker), Varsha Embar, Karthik Raghunathan_
+
+5. Challenges for the Conversational Entity Dialog Model
+
+  _Wolfgang Maier (speaker), Stefan Ultes_
 
 ## Schedule
 
@@ -88,10 +99,10 @@ CASK workshop will be held virtually on October 7th with the following with the 
 <div id="schedule">
     <ul>
 <li>8:00-8:10 - Opening remarks</li>
-<li>8:10-8:45 - Lightning talks</li>
+<li>8:10-8:45 - Lightning talks 1, 2, 3</li>
 <li>8:45-9:30 - Invited talk: <a href="https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic">Milica Gašić</a>, Heinrich-Heine-Universität Düsseldorf</li>
 <li>9:30-10:00 - Break</li>
-<li>10:00-10:30 - Lightning talks</li>
+<li>10:00-10:30 - Lightning talks 4, 5</li>
 <li>10:30-11:15 - Invited talk: <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
 <li>11:15-11:30 - Break</li>
 <li>11:30-12:15 - Invited talk: <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tur</a>, Amazon</li>
