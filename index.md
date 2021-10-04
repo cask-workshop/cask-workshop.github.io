@@ -9,6 +9,27 @@ collection: pages_2019
 
 <iframe src="https://free.timeanddate.com/countdown/i804ousz/n234/cf11/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc00f/pcfff/tcfff/fs100/szw320/szh135/iso2021-10-07T08:00:00" allowtransparency="true" frameborder="0" width="290" height="19" align="right"></iframe>
 
+## How to attend (on Zoom)
+After registering for the conference (see registratiton info below), you can find the Zoom link on [the workshops page](https://akbc.apps.allenai.org/workshops.html#day1).
+
+## Schedule
+
+CASK workshop will be held virtually on October 7th with the following with the following schedule (all times in Pacific Time, UTC-7).
+
+<div id="schedule">
+    <ul>
+<li>8:00-8:10 - Opening remarks</li>
+<li>8:10-8:45 - Lightning talks 1, 2, 3</li>
+<li>8:45-9:30 - Invited talk: Using Machine Translation to Localize Task Oriented NLG Output, by <a href=https://www.linkedin.com/in/scottroy2>Scott Roy</a>, Waymo</li>
+<li>9:30-10:00 - Break</li>
+<li>10:00-10:30 - Lightning talks 4, 5</li>
+<li>10:30-11:15 - Invited talk 2: Duality Exploitation for Language Understanding and Generation by <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
+<li>11:15-11:30 - Break</li>
+<li>11:30-12:15 - Invited talk: <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tur</a>, Amazon</li>
+<li>12:15-1:30 - Panel discussion</li>
+    </ul>
+</div>
+
 ## Overview
 
 Conversational agents are increasingly becoming part of our day-to-day life on the phone, in the car and in the living room, performing tasks on our behalf which often require interfacing with various forms of structured knowledge. The goal of this workshop is to shed light and encourage interdisciplinary research on some of the open problems situated on the interface of dialog systems and structured knowledge (e.g., knowledge bases, tables etc.), which is critical to the development of digital assistants like Google Home, Alexa and Siri. Our hope is to help bridge the gap between academic and industry research in this area. Open questions include, but are not limited to: 
@@ -100,33 +121,12 @@ If you require further assistance in participating in the workshop, please let u
 
   _Wolfgang Maier (speaker), Stefan Ultes_
 
-## Schedule
-
-CASK workshop will be held virtually on October 7th with the following with the following schedule (all times in Pacific Time, UTC-7).
-
-<div id="schedule">
-    <ul>
-<li>8:00-8:10 - Opening remarks</li>
-<li>8:10-8:45 - Lightning talks 1, 2, 3</li>
-<li>8:45-9:30 - Invited talk 1: Using Machine Translation to Localize Task Oriented NLG Output, by [Scott Roy](https://www.linkedin.com/in/scottroy2/), Waymo</li>
-<li>9:30-10:00 - Break</li>
-<li>10:00-10:30 - Lightning talks 4, 5</li>
-<li>10:30-11:15 - Invited talk 2: Duality Exploitation for Language Understanding and Generation by [Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University</li>
-<li>11:15-11:30 - Break</li>
-<li>11:30-12:15 - Invited talk: <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tur</a>, Amazon</li>
-<li>12:15-1:30 - Panel discussion</li>
-    </ul>
-</div>
-
-## How to attend
-The workshop will be virtually held on Zoom. We will send out an email to the attendees with a Zoom link closer to the workshop date. Please be on the lookout!
-
 
 ## Organizing Committee
-- [Aditya Gupta](https://scholar.google.com/citations?hl=en&user=HW7IZ6sAAAAJ&view_op=list_works&sortby=pubdate), Google
-- [Emily Pitler](https://research.google/people/EmilyPitler/), Google
-- [Mihir Kale](https://www.linkedin.com/in/mkale/), Google
-- [Rahul Goel](https://www.linkedin.com/in/rgoel39/), Google
-- [Shachi Paul](https://www.linkedin.com/in/shachipaul/), Google
-- [Shyam Upadhyay](http://shyamupa.com/), Google
-- [Waleed Ammar](https://wammar.github.io/), Google
+[Aditya Gupta](https://scholar.google.com/citations?hl=en&user=HW7IZ6sAAAAJ&view_op=list_works&sortby=pubdate), 
+[Emily Pitler](https://research.google/people/EmilyPitler/), 
+[Mihir Kale](https://www.linkedin.com/in/mkale/), 
+[Rahul Goel](https://www.linkedin.com/in/rgoel39/), 
+[Shachi Paul](https://www.linkedin.com/in/shachipaul/),
+[Shyam Upadhyay](http://shyamupa.com/),
+[Waleed Ammar](https://wammar.github.io/). Google.
