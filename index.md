@@ -108,23 +108,23 @@ Selecting the knowledge to ground the responses on is also core to open-domain d
 
 ## Lightning Talks
 
-(1) Get to Know Me: Creating Inclusive and Culturally-Competent Conversational Agents
+(1) **[Get to Know Me: Creating Inclusive and Culturally-Competent Conversational Agents](https://drive.google.com/file/d/1crxDQggFXcEwskn4lqAQZztPf8eThtGu/view?usp=sharing)**
 
   _Jana Thompson (speaker), Isabella Su, Ali Hosseini_
 
-(2) Neural Path Hunter: Reducing Hallucination in Dialogue Systems via Path Grounding
+(2) **[Neural Path Hunter: Reducing Hallucination in Dialogue Systems via Path Grounding](https://drive.google.com/file/d/1tozEPuBHa_FvVjpgl-W0caPLqhA4yjHS/view?usp=sharing)**
 
   _Nouha Dziri (speaker), Andrea Madotto, Osmar Zaiane, Avishek Joey Bose_
 
-(3) Retrieval-Free Knowledge-Grounded Dialogue Response Generation with Adapters
+(3) **[Retrieval-Free Knowledge-Grounded Dialogue Response Generation with Adapters](https://drive.google.com/file/d/1afksum4XJe_5QjH9POWtmk5vFBEBIc4E/view?usp=sharing)**
 
   _Yan Xu (speaker), Etsuko Ishii, Samuel Cahyawijaya, Zihan Liu, Genta Indra Winata, Andrea Madotto, Dan Su, Pascale Fung_
 
-(4) Evaluating Pretrained Transformer Language Models for Entity Linking in Task-Oriented Dialog
+(4) **[Evaluating Pretrained Transformer Language Models for Entity Linking in Task-Oriented Dialog](https://drive.google.com/file/d/1tQwhrle7t_OIm8j8hJ8qsoqrcGz1SBeu/view?usp=sharing)**
 
   _Sai Muralidhar Jayanthi (speaker), Varsha Embar, Karthik Raghunathan_
 
-(5) Challenges for the Conversational Entity Dialog Model
+(5) **[Challenges for the Conversational Entity Dialog Model](https://drive.google.com/file/d/1OizFtT9qupGpK_AAxSjX5-c06RbjKwff/view?usp=sharing)**
 
   _Wolfgang Maier (speaker), Stefan Ultes_
 
