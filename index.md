@@ -64,11 +64,13 @@ If you require further assistance in participating in the workshop, please let u
 
 ## Invited Speakers
 
-[Dilek Hakkani-Tur](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), Amazon
+(1) [Dilek Hakkani-Tur](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), Amazon
 
-[Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic), Heinrich-Heine-Universität Düsseldorf
+(2) [Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic), Heinrich-Heine-Universität Düsseldorf
 
-[Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University
+(3) **Duality Exploitation for Language Understanding and Generation by [Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University**
+<p><b>Abstract:</b> Natural language understanding (NLU) and Natural language generation (NLG) tasks hold a strong dual relationship, where NLU aims at predicting semantic labels based on natural language utterances and NLG does the opposite. This talk describes how we can better exploit the duality to improve the performance for both models and for both training and inference stages, demonstrating the great potential of scalable systems for practical usage.</p>
+<p><b>Bio:</b> Yun-Nung (Vivian) Chen is currently an associate professor in the Department of Computer Science & Information Engineering at National Taiwan University. She earned her Ph.D. degree from Carnegie Mellon University, where her research interests focus on spoken dialogue systems, language understanding, natural language processing, and multimodality. She received Google Faculty Research Awards, Amazon AWS Machine Learning Research Awards, MOST Young Scholar Fellowship, and FAOS Young Scholar Innovation Award. Prior to joining National Taiwan University, she worked in the Deep Learning Technology Center at Microsoft Research Redmond. http://vivianchen.idv.tw/ </p>
 
 ## Lightning Talks
 
@@ -100,10 +102,10 @@ CASK workshop will be held virtually on October 7th with the following with the 
     <ul>
 <li>8:00-8:10 - Opening remarks</li>
 <li>8:10-8:45 - Lightning talks 1, 2, 3</li>
-<li>8:45-9:30 - Invited talk: <a href="https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic">Milica Gašić</a>, Heinrich-Heine-Universität Düsseldorf</li>
+<li>8:45-9:30 - Invited talk 1: <a href="https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning/our-team/team/cv-gasic">Milica Gašić</a>, Heinrich-Heine-Universität Düsseldorf</li>
 <li>9:30-10:00 - Break</li>
 <li>10:00-10:30 - Lightning talks 4, 5</li>
-<li>10:30-11:15 - Invited talk: <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
+<li>10:30-11:15 - Invited talk 2: Duality Exploitation for Language Understanding and Generation by [Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University</li>
 <li>11:15-11:30 - Break</li>
 <li>11:30-12:15 - Invited talk: <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tur</a>, Amazon</li>
 <li>12:15-1:30 - Panel discussion</li>
