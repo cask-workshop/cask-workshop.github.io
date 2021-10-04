@@ -25,7 +25,7 @@ CASK workshop will be held virtually on October 7th with the following with the 
 <li>10:00-10:30 - Lightning talks 4, 5</li>
 <li>10:30-11:15 - Invited talk 2: Duality Exploitation for Language Understanding and Generation by <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
 <li>11:15-11:30 - Break</li>
-<li>11:30-12:15 - Invited talk: <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tur</a>, Amazon</li>
+<li>11:30-12:15 - Invited talk: Grounding Dialogue System Responses on Unstructured Knowledge, by <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tür</a>, Amazon</li>
 <li>12:15-1:30 - Panel discussion</li>
     </ul>
 </div>
@@ -89,7 +89,7 @@ If you require further assistance in participating in the workshop, please let u
 
 <p><b>Abstract:</b> One of the challenges in a task oriented natural language application like the Google Assistant, Siri, or Alexa is to localize the output to many languages. This talk explores applying machine translation to the English output. Using machine translation is very scalable, as it can work with any English output and can handle dynamic text, but otherwise the problem is a poor fit: the required quality bar is close to perfection, the range of sentences is extremely narrow, and the sentences are often very different than the ones in the machine translation training data. This combination of requirements makes the problem very different from other domain adaptation problems in machine translation. We are able to reach the required quality bar by building on existing ideas and adding new ones: fine tuning on in-domain translations, adding sentences from the Web, adding semantic annotations, using automatic error detection, and taking advantage of structured data features in addition to the English text. The talk presents the approach and results, together with a distilled data-to-text model to serve the translation models at scale. </p>
 
-<p>Bio: Scott Roy is a senior AI researcher and engineering lead at Waymo, where he works on lidar perception.  In his previous role at Google he worked extensively on deep learning for natural language understanding and generation, looking at problems in machine translation, data-to-text generation, and open domain chatbots.  Prior to that he led the CORE project at Yahoo to optimize and personalize the content on the Yahoo home page.  He has a long career at both startups and big companies developing applied ML systems.</p>
+<p><b>Bio:</b> Scott Roy is a senior AI researcher and engineering lead at Waymo, where he works on lidar perception.  In his previous role at Google he worked extensively on deep learning for natural language understanding and generation, looking at problems in machine translation, data-to-text generation, and open domain chatbots.  Prior to that he led the CORE project at Yahoo to optimize and personalize the content on the Yahoo home page.  He has a long career at both startups and big companies developing applied ML systems.</p>
 
 (2) **Duality Exploitation for Language Understanding and Generation, by [Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University**
 
