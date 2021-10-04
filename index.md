@@ -18,15 +18,15 @@ CASK workshop will be held virtually on October 7th with the following with the 
 
 <div id="schedule">
     <ul>
-<li>**08:00-08:10** - Opening remarks</li>
-<li>**08:10-08:45** - Lightning talks 1, 2, 3</li>
-<li>**08:45-09:30** - Invited talk: Using Machine Translation to Localize Task Oriented NLG Output, by <a href="https://www.linkedin.com/in/scottroy2">Scott Roy</a>, Waymo</li>
+<li><b>08:00-08:10</b> - Opening remarks</li>
+<li><b>08:10-08:45</b> - Lightning talks 1, 2, 3</li>
+<li><b>08:45-09:30</b> - Invited talk: Using Machine Translation to Localize Task Oriented NLG Output, by <a href="https://www.linkedin.com/in/scottroy2">Scott Roy</a>, Waymo</li>
 <li>09:30-10:00 - Break</li>
-<li>**10:00-10:30** - Lightning talks 4, 5</li>
-<li>**10:30-11:15** - Invited talk 2: Duality Exploitation for Language Understanding and Generation, by <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
+<li><b>10:00-10:30</b> - Lightning talks 4, 5</li>
+<li><b>10:30-11:15</b> - Invited talk 2: Duality Exploitation for Language Understanding and Generation, by <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
 <li>11:15-11:30 - Break</li>
-<li>**11:30-12:15** - Invited talk 3: Grounding Dialogue System Responses on Unstructured Knowledge, by <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tür</a>, Amazon</li>
-<li>**12:15-1:30** - Panel discussion</li>
+<li><b>11:30-12:15</b> - Invited talk 3: Grounding Dialogue System Responses on Unstructured Knowledge, by <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tür</a>, Amazon</li>
+<li><b>12:15-1:30</b> - Panel discussion</li>
     </ul>
 </div>
 
