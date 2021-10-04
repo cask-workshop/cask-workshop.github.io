@@ -20,7 +20,7 @@ CASK workshop will be held virtually on October 7th with the following with the 
     <ul>
 <li>8:00-8:10 - Opening remarks</li>
 <li>8:10-8:45 - Lightning talks 1, 2, 3</li>
-<li>8:45-9:30 - Invited talk: Using Machine Translation to Localize Task Oriented NLG Output, by <a href=https://www.linkedin.com/in/scottroy2>Scott Roy</a>, Waymo</li>
+<li>8:45-9:30 - Invited talk: Using Machine Translation to Localize Task Oriented NLG Output, by <a href="https://www.linkedin.com/in/scottroy2">Scott Roy</a>, Waymo</li>
 <li>9:30-10:00 - Break</li>
 <li>10:00-10:30 - Lightning talks 4, 5</li>
 <li>10:30-11:15 - Invited talk 2: Duality Exploitation for Language Understanding and Generation by <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
