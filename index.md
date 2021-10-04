@@ -26,7 +26,7 @@ CASK workshop will be held virtually on October 7th with the following with the 
 <li><b>10:30-11:15</b> - Invited talk 2: Duality Exploitation for Language Understanding and Generation, by <a href="https://www.csie.ntu.edu.tw/~yvchen/">Yun-Nung Vivian Chen</a>, National Taiwan University</li>
 <li>11:15-11:30 - Break</li>
 <li><b>11:30-12:15</b> - Invited talk 3: Grounding Dialogue System Responses on Unstructured Knowledge, by <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tür</a>, Amazon</li>
-<li><b>12:15-1:30</b> - Panel discussion</li>
+<li><b>12:15-1:30</b> - Open discussion</li>
     </ul>
 </div>
 
