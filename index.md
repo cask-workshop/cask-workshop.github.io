@@ -129,6 +129,7 @@ Selecting the knowledge to ground the responses on is also core to open-domain d
   _Wolfgang Maier (speaker), Stefan Ultes_
 
 (6) **[FeTaQA: Free-form Table Question Answering](https://arxiv.org/abs/2104.00369)**
+
   _Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang (speaker), Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev_
 
 ## Organizing Committee
