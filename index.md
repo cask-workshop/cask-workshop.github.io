@@ -31,7 +31,9 @@ CASK workshop will be held virtually on October 7th with the following with the 
 </div>
 
 **All times are in Pacific Time, UTC-7.**
- 
+
+**To suggest discussion topics, please send an email to <strong>cask2021@googlegroups.com</strong> with the subject line “<strong>[CASK DISCUSS]: topic of interest</strong>”.**
+
 ## Overview
 
 Conversational agents are increasingly becoming part of our day-to-day life on the phone, in the car and in the living room, performing tasks on our behalf which often require interfacing with various forms of structured knowledge. The goal of this workshop is to shed light and encourage interdisciplinary research on some of the open problems situated on the interface of dialog systems and structured knowledge (e.g., knowledge bases, tables etc.), which is critical to the development of digital assistants like Google Home, Alexa and Siri. Our hope is to help bridge the gap between academic and industry research in this area. Open questions include, but are not limited to: 
