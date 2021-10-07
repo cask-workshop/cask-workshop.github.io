@@ -18,7 +18,7 @@ CASK workshop will be held virtually on October 7th with the following with the 
 
 <div id="schedule">
     <ul>
-<li><b>08:00-08:10</b> - Opening remarks</li>
+<li><b>08:00-08:10</b> - Opening</li>
 <li><b>08:10-08:45</b> - Lightning talks 1, 2, 3</li>
 <li><b>08:45-09:30</b> - Invited talk: Using Machine Translation to Localize Task Oriented NLG Output, by <a href="https://www.linkedin.com/in/scottroy2">Scott Roy</a>, Waymo</li>
 <li>09:30-10:00 - Break</li>
